@@ -207,7 +207,7 @@
     "alwaysAllow": "Alltid tillat",
     "alwaysDeny": "Alltid avslå",
     "passToAuth": "Pass til Autentisering",
-    "orgSettingsDescription": "Konfigurer organisasjonens generelle innstillinger",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Organisasjonsinnstillinger",
     "orgGeneralSettingsDescription": "Administrer dine organisasjonsdetaljer og konfigurasjon",
     "saveGeneralSettings": "Lagre generelle innstillinger",
@@ -2080,5 +2080,6 @@
     "supportSending": "Sender...",
     "supportSend": "Sende",
     "supportMessageSent": "Melding sendt!",
-    "supportWillContact": "Vi kommer raskt til å ta kontakt!"
+    "supportWillContact": "Vi kommer raskt til å ta kontakt!",
+    "selectLogRetention": "Select log retention"
 }
