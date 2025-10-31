@@ -207,7 +207,7 @@
     "alwaysAllow": "Altijd toestaan",
     "alwaysDeny": "Altijd weigeren",
     "passToAuth": "Passeren naar Auth",
-    "orgSettingsDescription": "Configureer de algemene instellingen van je organisatie",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Organisatie Instellingen",
     "orgGeneralSettingsDescription": "Beheer de details en configuratie van uw organisatie",
     "saveGeneralSettings": "Algemene instellingen opslaan",
@@ -2080,5 +2080,6 @@
     "supportSending": "Verzenden...",
     "supportSend": "Verzenden",
     "supportMessageSent": "Bericht verzonden!",
-    "supportWillContact": "We nemen binnenkort contact met u op!"
+    "supportWillContact": "We nemen binnenkort contact met u op!",
+    "selectLogRetention": "Select log retention"
 }
