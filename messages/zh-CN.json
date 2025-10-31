@@ -207,7 +207,7 @@
     "alwaysAllow": "一律允许",
     "alwaysDeny": "一律拒绝",
     "passToAuth": "传递至认证",
-    "orgSettingsDescription": "配置您组织的一般设置",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "组织设置",
     "orgGeneralSettingsDescription": "管理您的机构详细信息和配置",
     "saveGeneralSettings": "保存常规设置",
@@ -2080,5 +2080,6 @@
     "supportSending": "正在发送...",
     "supportSend": "发送",
     "supportMessageSent": "消息已发送！",
-    "supportWillContact": "我们很快就会联系起来！"
+    "supportWillContact": "我们很快就会联系起来！",
+    "selectLogRetention": "Select log retention"
 }
