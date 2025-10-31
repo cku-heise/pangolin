@@ -207,7 +207,7 @@
     "alwaysAllow": "Всегда разрешать",
     "alwaysDeny": "Всегда запрещать",
     "passToAuth": "Переход к аутентификации",
-    "orgSettingsDescription": "Настройте общие параметры вашей организации",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Настройки организации",
     "orgGeneralSettingsDescription": "Управляйте данными и конфигурацией вашей организации",
     "saveGeneralSettings": "Сохранить общие настройки",
@@ -2080,5 +2080,6 @@
     "supportSending": "Отправка...",
     "supportSend": "Отправить",
     "supportMessageSent": "Сообщение отправлено!",
-    "supportWillContact": "Мы скоро свяжемся с Вами!"
+    "supportWillContact": "Мы скоро свяжемся с Вами!",
+    "selectLogRetention": "Select log retention"
 }
