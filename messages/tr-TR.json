@@ -207,7 +207,7 @@
     "alwaysAllow": "Her Zaman İzin Ver",
     "alwaysDeny": "Her Zaman Reddet",
     "passToAuth": "Kimlik Doğrulamasına Geç",
-    "orgSettingsDescription": "Organizasyonunuzun genel ayarlarını yapılandırın",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Organizasyon Ayarları",
     "orgGeneralSettingsDescription": "Organizasyon detaylarınızı ve yapılandırmanızı yönetin",
     "saveGeneralSettings": "Genel Ayarları Kaydet",
@@ -2080,5 +2080,6 @@
     "supportSending": "Gönderiliyor...",
     "supportSend": "Gönder",
     "supportMessageSent": "Mesaj Gönderildi!",
-    "supportWillContact": "En kısa sürede size geri döneceğiz!"
+    "supportWillContact": "En kısa sürede size geri döneceğiz!",
+    "selectLogRetention": "Select log retention"
 }
