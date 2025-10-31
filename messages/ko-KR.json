@@ -207,7 +207,7 @@
     "alwaysAllow": "항상 허용",
     "alwaysDeny": "항상 거부",
     "passToAuth": "인증으로 전달",
-    "orgSettingsDescription": "조직의 일반 설정을 구성하세요",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "조직 설정",
     "orgGeneralSettingsDescription": "조직 세부정보 및 구성을 관리하세요.",
     "saveGeneralSettings": "일반 설정 저장",
@@ -2080,5 +2080,6 @@
     "supportSending": "발송 중...",
     "supportSend": "보내기",
     "supportMessageSent": "메시지 전송 완료!",
-    "supportWillContact": "곧 연락드리겠습니다!"
+    "supportWillContact": "곧 연락드리겠습니다!",
+    "selectLogRetention": "Select log retention"
 }
