@@ -207,7 +207,7 @@
     "alwaysAllow": "Vždy povolit",
     "alwaysDeny": "Vždy zakázat",
     "passToAuth": "Předat k ověření",
-    "orgSettingsDescription": "Konfigurace obecných nastavení vaší organizace",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Nastavení organizace",
     "orgGeneralSettingsDescription": "Spravujte údaje a konfiguraci vaší organizace",
     "saveGeneralSettings": "Uložit obecné nastavení",
@@ -2080,5 +2080,6 @@
     "supportSending": "Odesílání...",
     "supportSend": "Poslat",
     "supportMessageSent": "Zpráva odeslána!",
-    "supportWillContact": "Brzy budeme v kontaktu!"
+    "supportWillContact": "Brzy budeme v kontaktu!",
+    "selectLogRetention": "Select log retention"
 }
