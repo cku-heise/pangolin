@@ -207,7 +207,7 @@
     "alwaysAllow": "Zawsze zezwalaj",
     "alwaysDeny": "Zawsze odmawiaj",
     "passToAuth": "Przekaż do Autoryzacji",
-    "orgSettingsDescription": "Skonfiguruj ustawienia ogólne swojej organizacji",
+    "orgSettingsDescription": "Configure your organization's settings",
     "orgGeneralSettings": "Ustawienia organizacji",
     "orgGeneralSettingsDescription": "Zarządzaj szczegółami swojej organizacji i konfiguracją",
     "saveGeneralSettings": "Zapisz ustawienia ogólne",
@@ -2080,5 +2080,6 @@
     "supportSending": "Wysyłanie...",
     "supportSend": "Wyślij",
     "supportMessageSent": "Wiadomość wysłana!",
-    "supportWillContact": "Wkrótce będziemy w kontakcie!"
+    "supportWillContact": "Wkrótce będziemy w kontakcie!",
+    "selectLogRetention": "Select log retention"
 }
